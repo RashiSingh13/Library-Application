@@ -17,3 +17,5 @@ inside lib-be create a folder src
 
 npm i jsonwebtoken
 npm i bcrypt
+
+"mongodb+srv://rashisingh23:Mongo1234@ciphers.8hnjder.mongodb.net"
