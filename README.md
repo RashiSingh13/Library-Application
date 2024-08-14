@@ -14,3 +14,6 @@ npx create-react-app lib-app-fe {For FrontEnd}
 Inside lib-app-be > npm i express then npm i mongoose then npm i cors and npm i validator
 
 inside lib-be create a folder src
+
+npm i jsonwebtoken
+npm i bcrypt
